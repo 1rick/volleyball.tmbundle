@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Mazori </string>
+	<key>name</key>
+	<string>al10</string>
+	<key>tabTrigger</key>
+	<string>al10</string>
+	<key>uuid</key>
+	<string>D095B242-02A4-470C-8AC5-2CF67DEC6AF7</string>
+</dict>
+</plist>

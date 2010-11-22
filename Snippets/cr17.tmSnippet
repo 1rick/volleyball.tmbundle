@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Alfaro </string>
+	<key>name</key>
+	<string>cr17</string>
+	<key>tabTrigger</key>
+	<string>cr17</string>
+	<key>uuid</key>
+	<string>35466545-B27E-4DC7-9C6E-89AF42D1411A</string>
+</dict>
+</plist>

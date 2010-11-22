@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Rondon </string>
+	<key>name</key>
+	<string>i5</string>
+	<key>tabTrigger</key>
+	<string>i5</string>
+	<key>uuid</key>
+	<string>280A64BB-6DBA-4681-B3BC-FBCA6E656351</string>
+</dict>
+</plist>

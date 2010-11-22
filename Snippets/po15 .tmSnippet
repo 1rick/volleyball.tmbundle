@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Gajgal </string>
+	<key>name</key>
+	<string>po15 </string>
+	<key>tabTrigger</key>
+	<string>po15</string>
+	<key>uuid</key>
+	<string>DF7B1823-4B21-41C9-843E-4064AB01CFE2</string>
+</dict>
+</plist>

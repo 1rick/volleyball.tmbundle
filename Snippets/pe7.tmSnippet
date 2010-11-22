@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Zamudio </string>
+	<key>name</key>
+	<string>pe7</string>
+	<key>tabTrigger</key>
+	<string>pe7</string>
+	<key>uuid</key>
+	<string>085BDC12-2593-4787-8EFE-D28B4F88DC4F</string>
+</dict>
+</plist>

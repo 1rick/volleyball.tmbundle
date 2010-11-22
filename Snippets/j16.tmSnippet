@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Sakoda </string>
+	<key>name</key>
+	<string>j16</string>
+	<key>tabTrigger</key>
+	<string>j16</string>
+	<key>uuid</key>
+	<string>99031A9A-F02C-4E6E-B2C4-2699A5A511A4</string>
+</dict>
+</plist>

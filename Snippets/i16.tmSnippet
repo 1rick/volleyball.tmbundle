@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Bosetti </string>
+	<key>name</key>
+	<string>i16</string>
+	<key>tabTrigger</key>
+	<string>i16</string>
+	<key>uuid</key>
+	<string>76A695EF-21D9-4C4B-9871-057A07B20508</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>[Vladimir Kuzyutkin](http://www.fivb.org/EN/Volleyball/Competitions/WorldChampionships/2010/Women/Team_Roster.asp?Tourn=WWCH2010&amp;Team=RUS#Coach_profile "Vladimir Kuzyutkin") </string>
+	<key>name</key>
+	<string>Coach Vladimir Kuzyutkin</string>
+	<key>tabTrigger</key>
+	<string>r</string>
+	<key>uuid</key>
+	<string>5A2C7955-FBB3-40D8-8F5E-5F1A159149F4</string>
+</dict>
+</plist>

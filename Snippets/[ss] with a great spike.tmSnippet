@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>with a great spike </string>
+	<key>name</key>
+	<string>[ss] with a great spike</string>
+	<key>tabTrigger</key>
+	<string>ss</string>
+	<key>uuid</key>
+	<string>98AC5FC8-AB10-4AB7-81FE-5A9ABA887F17</string>
+</dict>
+</plist>

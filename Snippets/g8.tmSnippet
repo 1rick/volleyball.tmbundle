@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Radzuweit </string>
+	<key>name</key>
+	<string>g8</string>
+	<key>tabTrigger</key>
+	<string>g8</string>
+	<key>uuid</key>
+	<string>53C9912F-865E-4040-8E99-3D962D710BF0</string>
+</dict>
+</plist>

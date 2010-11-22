@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>[Narimene Madani](http://www.fivb.org/EN/Volleyball/Competitions/WorldChampionships/2010/Women/Players.asp?Tourn=WWCH2010&amp;Team=ALG&amp;No=112534 "Narimene Madani") </string>
+	<key>name</key>
+	<string>9 Narimene Madani (C)</string>
+	<key>tabTrigger</key>
+	<string>al</string>
+	<key>uuid</key>
+	<string>78D3A36D-6F66-443C-A7DE-3B641FB03E23</string>
+</dict>
+</plist>

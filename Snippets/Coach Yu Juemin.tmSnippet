@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>[Yu Juemin](http://www.fivb.org/EN/Volleyball/Competitions/WorldChampionships/2010/Women/Team_Roster.asp?Tourn=WWCH2010&amp;Team=CHN#Coach_profile "Yu Juemin") </string>
+	<key>name</key>
+	<string>Coach Yu Juemin</string>
+	<key>tabTrigger</key>
+	<string>z</string>
+	<key>uuid</key>
+	<string>4BF90593-AB20-4293-8C80-380F7E152EB5</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Guresen </string>
+	<key>name</key>
+	<string>t20</string>
+	<key>tabTrigger</key>
+	<string>t20</string>
+	<key>uuid</key>
+	<string>9C3590A7-8979-4217-B5FD-542C64E59EC1</string>
+</dict>
+</plist>

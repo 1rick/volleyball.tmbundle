@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>[Maria Borodakova](http://www.fivb.org/EN/Volleyball/Competitions/WorldChampionships/2010/Women/Players.asp?Tourn=WWCH2010&amp;Team=RUS&amp;No=115147 "Maria Borodakova") </string>
+	<key>name</key>
+	<string>1 C Maria Borodakova</string>
+	<key>tabTrigger</key>
+	<string>r</string>
+	<key>uuid</key>
+	<string>45F89D70-EB2A-474F-9FEB-DE4D62DBEE0A</string>
+</dict>
+</plist>

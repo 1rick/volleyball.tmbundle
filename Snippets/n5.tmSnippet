@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>de Kruijf </string>
+	<key>name</key>
+	<string>n5</string>
+	<key>tabTrigger</key>
+	<string>n5</string>
+	<key>uuid</key>
+	<string>A41CFAE9-EBAF-4E2C-937B-BC23309A93CC</string>
+</dict>
+</plist>

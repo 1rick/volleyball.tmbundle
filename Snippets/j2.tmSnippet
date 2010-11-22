@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Nakamichi </string>
+	<key>name</key>
+	<string>j2</string>
+	<key>tabTrigger</key>
+	<string>j2</string>
+	<key>uuid</key>
+	<string>44508135-C64B-4778-874C-A0B6EEB4AB25</string>
+</dict>
+</plist>

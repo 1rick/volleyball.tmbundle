@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>[Masayosi Manabe](http://www.fivb.org/EN/Volleyball/Competitions/WorldChampionships/2010/Women/Team_Roster.asp?Tourn=WWCH2010&amp;Team=JPN#Coach_profile "Masayosi Manabe")</string>
+	<key>name</key>
+	<string>Coach Masayosi Manabe </string>
+	<key>tabTrigger</key>
+	<string>j</string>
+	<key>uuid</key>
+	<string>61151335-F5F9-45F0-BF23-BDC75083BCB9</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Wolosz </string>
+	<key>name</key>
+	<string>po14</string>
+	<key>tabTrigger</key>
+	<string>po14</string>
+	<key>uuid</key>
+	<string>48742994-4B77-4B89-BE05-8D4A173D3976</string>
+</dict>
+</plist>

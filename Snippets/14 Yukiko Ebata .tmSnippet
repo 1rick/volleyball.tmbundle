@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>[Yukiko Ebata](http://www.fivb.org/EN/Volleyball/Competitions/WorldChampionships/2010/Women/Players.asp?Tourn=WWCH2010&amp;Team=JPN&amp;No=132056 "Yukiko Ebata")</string>
+	<key>name</key>
+	<string>14 Yukiko Ebata </string>
+	<key>tabTrigger</key>
+	<string>j</string>
+	<key>uuid</key>
+	<string>CCD74B2A-5615-4A37-87C3-B4000505982F</string>
+</dict>
+</plist>

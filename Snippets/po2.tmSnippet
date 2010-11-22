@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Zenik </string>
+	<key>name</key>
+	<string>po2</string>
+	<key>tabTrigger</key>
+	<string>po2</string>
+	<key>uuid</key>
+	<string>4EF218AE-4CC6-4CB5-A811-9A8A5CB845FE</string>
+</dict>
+</plist>

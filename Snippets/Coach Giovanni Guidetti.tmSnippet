@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>[Giovanni Guidetti](http://www.fivb.org/EN/Volleyball/Competitions/WorldChampionships/2010/Women/Team_Roster.asp?Tourn=WWCH2010&amp;Team=GER#Coach_profile "Giovanni Guidetti") </string>
+	<key>name</key>
+	<string>Coach Giovanni Guidetti</string>
+	<key>tabTrigger</key>
+	<string>g</string>
+	<key>uuid</key>
+	<string>53C4C1C7-D329-470B-A83A-B041AD2E68DF</string>
+</dict>
+</plist>

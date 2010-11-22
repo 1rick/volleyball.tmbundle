@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>[Mehmet Bedestenlioglu](http://www.fivb.org/EN/Volleyball/Competitions/WorldChampionships/2010/Women/Team_Roster.asp?Tourn=WWCH2010&amp;Team=TUR#Coach_profile "Mehmet Bedestenlioglu") </string>
+	<key>name</key>
+	<string>Coach Mehmet Bedestenlioglu</string>
+	<key>tabTrigger</key>
+	<string>t</string>
+	<key>uuid</key>
+	<string>43677EE4-3D35-4E3B-BA23-71F7687EDF01</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Malgorzata Glinka-Mogentale</string>
+	<key>name</key>
+	<string>7 Malgorzata Glinka-Mogentale</string>
+	<key>tabTrigger</key>
+	<string>po</string>
+	<key>uuid</key>
+	<string>F050DC1B-A905-4FEE-8E2B-8ACB46326A8E</string>
+</dict>
+</plist>

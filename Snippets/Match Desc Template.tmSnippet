@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleUUID</key>
+	<string>B8449468-CB16-4F90-9C31-251EA1E0CAD5</string>
+	<key>content</key>
+	<string>HEADLINE
+$0
+Tokyo, Japan, `date +"%B%e, %Y"` - 
+
+POINTS LEADERS
+
+[FIVB Women's World Championship Japan 2010 official page](http://www.fivb.org/EN/Volleyball/Competitions/WorldChampionships/2010/Women/LiveScore.asp?Tourn=WWCH2010/ "FIVB Women's World Championship Japan 2010 official page")  
+
+FIRST
+
+
+
+FIRST
+
+
+
+
+
+
+SECOND
+
+
+SECOND
+
+
+
+
+THIRD
+
+
+
+THIRD
+</string>
+	<key>name</key>
+	<string>Match Desc Template</string>
+	<key>tabTrigger</key>
+	<string>match</string>
+	<key>uuid</key>
+	<string>6A771615-45B3-4D15-A90E-84A50865984C</string>
+</dict>
+</plist>

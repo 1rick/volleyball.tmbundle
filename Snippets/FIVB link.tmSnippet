@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>[FIVB Women's World Championship Japan 2010 official page](http://www.fivb.org/EN/Volleyball/Competitions/WorldChampionships/2010/Women/LiveScore.asp?Tourn=WWCH2010/ "FIVB Women's World Championship Japan 2010 official page")  </string>
+	<key>name</key>
+	<string>FIVB link</string>
+	<key>tabTrigger</key>
+	<string>FIVB</string>
+	<key>uuid</key>
+	<string>AD23EA9D-A440-42B1-861F-9BEC0ACECD1B</string>
+</dict>
+</plist>

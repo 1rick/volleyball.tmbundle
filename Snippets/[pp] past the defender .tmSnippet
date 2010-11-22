@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>past the defender </string>
+	<key>name</key>
+	<string>[pp] past the defender </string>
+	<key>tabTrigger</key>
+	<string>pp</string>
+	<key>uuid</key>
+	<string>3F63FBC5-5C95-45CA-99D8-B2F270710C8B</string>
+</dict>
+</plist>

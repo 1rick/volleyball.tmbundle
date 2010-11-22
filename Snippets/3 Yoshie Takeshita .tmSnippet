@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>[Yoshie Takeshita](http://www.fivb.org/EN/Volleyball/Competitions/WorldChampionships/2010/Women/Players.asp?Tourn=WWCH2010&amp;Team=JPN&amp;No=111715 "Yoshie Takeshita")</string>
+	<key>name</key>
+	<string>3 Yoshie Takeshita </string>
+	<key>tabTrigger</key>
+	<string>j</string>
+	<key>uuid</key>
+	<string>25ED67BC-740D-43E4-A016-6BB2D659B024</string>
+</dict>
+</plist>

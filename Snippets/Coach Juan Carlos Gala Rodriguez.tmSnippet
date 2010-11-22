@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>[Juan Carlos Gala Rodriguez](http://www.fivb.org/EN/Volleyball/Competitions/WorldChampionships/2010/Women/Team_Roster.asp?Tourn=WWCH2010&amp;Team=CUB#Coach_profile "Juan Carlos Gala Rodriguez") </string>
+	<key>name</key>
+	<string>Coach Juan Carlos Gala Rodriguez</string>
+	<key>tabTrigger</key>
+	<string>c</string>
+	<key>uuid</key>
+	<string>FFFEE18E-E528-4169-8AAE-99F9E8F5D213</string>
+</dict>
+</plist>

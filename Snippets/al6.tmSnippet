@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Magnana </string>
+	<key>name</key>
+	<string>al6</string>
+	<key>tabTrigger</key>
+	<string>al6</string>
+	<key>uuid</key>
+	<string>38E92353-B845-4406-B4A5-913A02A6E247</string>
+</dict>
+</plist>

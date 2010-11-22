@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Toksoy </string>
+	<key>name</key>
+	<string>t8</string>
+	<key>tabTrigger</key>
+	<string>t8</string>
+	<key>uuid</key>
+	<string>582130F7-BB19-441C-BED1-B8A7D0D0AC09</string>
+</dict>
+</plist>

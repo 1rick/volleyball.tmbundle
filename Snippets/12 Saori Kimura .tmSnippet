@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>[Saori Kimura](http://www.fivb.org/EN/Volleyball/Competitions/WorldChampionships/2010/Women/Players.asp?Tourn=WWCH2010&amp;Team=JPN&amp;No=114038 "Saori Kimura")</string>
+	<key>name</key>
+	<string>12 Saori Kimura </string>
+	<key>tabTrigger</key>
+	<string>j</string>
+	<key>uuid</key>
+	<string>378B8A34-DC6E-4F78-A2A8-DE23D5452320</string>
+</dict>
+</plist>

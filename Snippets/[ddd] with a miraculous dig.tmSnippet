@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>with a miraculous dig </string>
+	<key>name</key>
+	<string>[ddd] with a miraculous dig</string>
+	<key>tabTrigger</key>
+	<string>ddd</string>
+	<key>uuid</key>
+	<string>337DDC79-1C58-43DA-8980-7F9BF96C03CA</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>[Jelena Nikolic](http://www.fivb.org/EN/Volleyball/Competitions/WorldChampionships/2010/Women/Players.asp?Tourn=WWCH2010&amp;Team=SRB&amp;No=116221 "Jelena Nikolic")</string>
+	<key>name</key>
+	<string>1 Jelena Nikolic (C)</string>
+	<key>tabTrigger</key>
+	<string>se</string>
+	<key>uuid</key>
+	<string>8443AA60-7380-4229-BECC-D2884A4E6E0F</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Daniela Uribe </string>
+	<key>name</key>
+	<string>pe8</string>
+	<key>tabTrigger</key>
+	<string>pe8</string>
+	<key>uuid</key>
+	<string>F46BAB28-09E3-4DA8-8326-5E6D272EB2FC</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>[Liubov Shashkova ](http://www.fivb.org/EN/Volleyball/Competitions/WorldChampionships/2010/Women/Players.asp?Tourn=WWCH2010&amp;Team=RUS&amp;No=111364 "Liubov Shashkova")
+
+ </string>
+	<key>name</key>
+	<string>5 Liubov Shashkova </string>
+	<key>tabTrigger</key>
+	<string>r</string>
+	<key>uuid</key>
+	<string>851D7617-FF48-4A8E-89F3-2ABA5FC424E0</string>
+</dict>
+</plist>
